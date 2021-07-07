@@ -1,0 +1,4 @@
+# RED_ACT_US_GM_Process
+RED-ACT美国地震动处理
+介绍
+在GConfig文件里面修改不同方向记录出现的行号，并选择对应的地震动时间间隔
